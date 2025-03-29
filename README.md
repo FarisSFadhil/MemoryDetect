@@ -1,1 +1,1 @@
-# MemoryDetect
+The ipmitool sel clear command is used to clear the System Event Log (SEL) on devices or servers that support the Intelligent Platform Management Interface (IPMI). The SEL is a record of hardware-related events, such as temperature warnings, power failures, or system resets.
